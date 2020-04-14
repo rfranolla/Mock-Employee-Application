@@ -1,0 +1,8 @@
+Ryan,Smith,26-08-1990,26,456 Idontknow Drive,Somewhere,New Brunswick,M9G 3T8,555125369,321-542-1223,647-548-9521,8,25-08-2008,,8
+RileyTheBest,Franolla,18-01-1999,18,307 Barber Drive,Georgetown,Ontario,L7G 5H6,123456782,905-873-2502,647-515-2502,1,19-01-2001,02-05-2010,9
+Frank,Sinatra,02-02-2002,15,2,2,Prince Edward Island,2,2,2,2,2,20-12-2012,,4
+Harry,Potter,03-03-2003,14,3,3,Yukon,3,3,3,3,4,30-03-2013,04-04-2014,1
+Nick,Varas,04-04-2004,13,4,4,Nova Scotia,4,4,4,4,4,04-04-2014,,3
+Dan,Bauer,05-05-2005,12,5,5,Quebec,5,5,5,5,5,05-05-2015,25-05-2016,1
+Zack,Grahamburg,26-08-1980,36,899 Street Ave,Home Town,Northwest Territories,O9H 5G7,123456782,905-373-4567,416-654-5421,12,01-01-1995,01-01-2016,21
+Mr,Miller,01-01-1960,57,123 Main Street,Acton,Ontario,l7R1a1,123456782,9055551212,647-454-5820,5,20-06-2017,,0
